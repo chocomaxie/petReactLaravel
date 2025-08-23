@@ -9,7 +9,7 @@ const Welcome = () => {
     <div className="wrapper">
       <div className="group-title">
         <h1 className="title">
-          Welcome to PetCare
+          Welcome to PetCaress
           {""} <i class="fa-solid fa-paw"></i>
         </h1>
         <p className="subtitle">
